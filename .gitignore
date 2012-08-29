@@ -9,4 +9,7 @@
 /.project
 /.settings
 
+# Ignore compile app output
+/target
+
 
